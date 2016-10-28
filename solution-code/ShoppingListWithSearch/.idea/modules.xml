@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ShoppingListWithSearch.iml" filepath="$PROJECT_DIR$/ShoppingListWithSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../../../../../ADI-Gelato/adi-gelato/curriculum/04-schedule-and-supplies/week-04/baseline-materials/enable-search-lab/solution-code/ShoppingListWithSearch/ShoppingListWithSearch.iml" filepath="$PROJECT_DIR$/../../../../../../../../../ADI-Gelato/adi-gelato/curriculum/04-schedule-and-supplies/week-04/baseline-materials/enable-search-lab/solution-code/ShoppingListWithSearch/ShoppingListWithSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../../../../../ADI-Gelato/adi-gelato/curriculum/04-schedule-and-supplies/week-04/baseline-materials/enable-search-lab/solution-code/ShoppingListWithSearch/app/app.iml" filepath="$PROJECT_DIR$/../../../../../../../../../ADI-Gelato/adi-gelato/curriculum/04-schedule-and-supplies/week-04/baseline-materials/enable-search-lab/solution-code/ShoppingListWithSearch/app/app.iml" />
+    </modules>
+  </component>
+</project>
